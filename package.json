@@ -4,6 +4,9 @@
   "description": "- expressjs - lowdb - routing - http methods - get, post, put, delete - integrate frontend",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "install": "cd client && npm i",
     "heroku-postbuild": "cd client && npm install && npm run build",
