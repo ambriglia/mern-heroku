@@ -25,6 +25,7 @@
     "apollo-server-express": "^2.11.0",
     "dotenv": "^16.0.1",
     "express": "^4.17.1",
+    "mongodb": "^6.5.0",
     "mongoose": "^6.0.12",
     "morgan": "^1.10.0",
     "swagger-ui-express": "^4.1.6"
